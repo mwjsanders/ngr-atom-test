@@ -1,0 +1,39 @@
+{
+    "md_identifier": "dc9fbc85-1263-4a1b-b001-7be701a6039e",
+    "inspire": true,
+    "service_title": "Ruimtelijke plannen Wro: Ruimtelijkeplannen.nl",
+    "service_creation_date": "2021-06-28",
+    "service_owner": "PDOK",
+    "service_abstract": "Officieel gepubliceerde digitale ruimtelijke plannen op basis van de Wro/Bro. Let op: De gegevens in deze dataset worden maandelijks geactualiseerd. Voor het raadplegen van de meest actuele planinformatie op de wettelijk vastgestelde wijze is Ruimtelijkeplannen.nl het officiële portaal.",
+    "keywords": [
+        "landgebruik",
+        "bestemmingsplan",
+        "bestemmingsplan",
+        "structuurvisie",
+        "ruimtelijk plan",
+        "ruimtelijke verordening",
+        "ruimtelijk besluit",
+        "infomapaccessservice"
+    ],
+    "inspire_theme_uri": "https://www.eionet.europa.eu/gemet/nl/inspire-theme/am",
+    "service_gebruiksbeperkingen": "Het bestand vrij is om te gebruiken en te downloaden.",
+    "bbox": {
+        "minx": "3.206252918228434",
+        "maxx": "7.245258336784366",
+        "miny": "50.73360719554353",
+        "maxy": "53.58297893748843"
+    },
+    "service_capabilities_url_atom": "https://geodata.nationaalgeoregister.nl/plu/atom/plu.xml",
+    "linked_datasets": [
+        {
+            "dataset_md_identifier": "17716ed7-ce0d-4bfd-8868-a398e5578a36"
+        }
+    ],
+    "thumbnails": [
+        {
+            "file": "https://www.nationaalgeoregister.nl/geonetwork/srv/api/records/6c62e0a5-c215-4e47-94b0-a239e264417d/attachments/ruimtelijkeplannen.png?approved=true",
+            "description": "thumbnail",
+            "filetype": "png"
+        }
+    ]
+}

@@ -1,0 +1,243 @@
+feeds:
+  - id: "https://service.pdok.nl/kadaster/plu/atom/v1_0/index.xml"
+    inspire_dls: "http://inspire.ec.europa.eu/schemas/inspire_dls/1.0"
+    lang: "nl"
+    stylesheet: "https://service.pdok.nl/atom/style/style.xsl"
+    title: "INSPIRE Download Service van Ruimelijke plannen INSPIRE"
+    subtitle: "INSPIRE Download Service van Ruimelijke plannen INSPIRE"
+    link:
+      - rel: "self"
+        href: "https://service.pdok.nl/kadaster/plu/atom/v1_0/index.xml"
+        title: "INSPIRE Download Service van Ruimelijke plannen INSPIRE"
+        type: "application/atom+xml"
+      - rel: "describedby"
+        href: "https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/15c3c30f-0db2-4b3b-80f6-b990c8fc8225"
+        type: "application/xml"
+      - rel: "search"
+        href: "https://www.nationaalgeoregister.nl/geonetwork/opensearch/dut/15c3c30f-0db2-4b3b-80f6-b990c8fc8225/OpenSearchDescription.xml"
+        title: "Open Search document voor INSPIRE Download service PDOK"
+        type: "application/opensearchdescription+xml"
+      - rel: "related"
+        href: "https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/15c3c30f-0db2-4b3b-80f6-b990c8fc8225"
+        type: "text/html"
+        title: "NGR pagina voor deze download service"
+    rights: "https://creativecommons.org/publicdomain/zero/1.0/deed.nl"
+    updated: "2021-07-05T12:00:00Z"
+    author:
+      name: "PDOK Beheer"
+      email: "beheerPDOK@kadaster.nl"
+    entry:
+      - id: "https://service.pdok.nl/kadaster/plu/atom/v1_0/plu.xml"
+        title: "Ruimtelijke plannen Wro: Ruimtelijkeplannen.nl"
+        spatial_dataset_identifier_code: "e2318c58-b1e6-4621-9c77-33b8a1fd0e76"
+        spatial_dataset_identifier_namespace: "http://www.pdok.nl"
+        link:
+          - rel: "describedby"
+            href: "https://www.nationaalgeoregister.nl/geonetwork/srv/api/records/17716ed7-ce0d-4bfd-8868-a398e5578a36"
+            type: "application/xml"
+          - rel: "alternate"
+            href: "https://service.pdok.nl/kadaster/plu/atom/v1_0/plu.xml"
+            type: "application/atom+xml"
+            title: "INSPIRE Download Service van Ruimtelijke plannen INSPIRE"
+        updated: "2021-07-05T12:00:00Z"
+        summary: "INSPIRE Download Service van Ruimtelijke plannen INSPIRE"
+        polygon: "50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1"
+        category:
+          - term: "http://www.opengis.net/def/crs/EPSG/0/28992"
+            label: "Amersfoort / RD New"
+  - id: "https://service.pdok.nl/kadaster/plu/atom/v1_0/plu.xml"
+    lang: "nl"
+    stylesheet: "https://service.pdok.nl/atom/style/style.xsl"
+    title: "INSPIRE Download Service van PLU - Ruimtelijke Plannen"
+    subtitle: "Voorgedefinieerde dataset INSPIRE download service"
+    link:
+      - rel: "self"
+        href: "https://service.pdok.nl/kadaster/plu/atom/v1_0/plu.xml"
+      - rel: "up"
+        href: "https://service.pdok.nl/kadaster/plu/atom/v1_0/index.xml"
+        type: "application/atom+xml"
+        title: "Top Atom Download Service Feed"
+      - rel: "describedby"
+        href: "https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/17716ed7-ce0d-4bfd-8868-a398e5578a36"
+        type: "text/html"
+      - rel: "related"
+        href: "https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/17716ed7-ce0d-4bfd-8868-a398e5578a36"
+        type: "text/html"
+        title: "NGR pagina voor deze dataset"
+    rights: "http://creativecommons.org/publicdomain/mark/1.0/deed.nl"
+    updated: "2021-07-05T12:00:00Z"
+    author:
+      name: "PDOK beheer"
+      email: "beheerPDOK@kadaster.nl"
+    entry:
+      - id: "https://service.pdok.nl/kadaster/plu/atom/v1_0/plu.xml"
+        title: "INSPIRE Download Service van PLU - Ruimtelijke Plannen"
+        updated: "2021-07-05T12:00:00Z"
+        link:
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Besluitgebied_A.gml.gz" 
+            type: "application/zip"
+            length: 4105036
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Besluitgebied_P.gml.gz" 
+            type: "application/zip"
+            length: 15170359
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Besluitgebied_X.gml.gz" 
+            type: "application/zip"
+            length: 45631937
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Besluitsubvlak_A.gml.gz" 
+            type: "application/zip"
+            length: 44143147
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Besluitsubvlak_P.gml.gz" 
+            type: "application/zip"
+            length: 1686393388
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Besluitsubvlak_X.gml.gz" 
+            type: "application/zip"
+            length: 30395411
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Besluitvlak_A.gml.gz" 
+            type: "application/zip"
+            length: 5916439
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Besluitvlak_P.gml.gz" 
+            type: "application/zip"
+            length: 1330786729
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Besluitvlak_X.gml.gz" 
+            type: "application/zip"
+            length: 89543856
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Bestemmingsplangebied.gml.gz" 
+            type: "application/zip"
+            length: 232251727
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Bouwaanduiding.gml.gz" 
+            type: "application/zip"
+            length: 210137217
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Bouwvlak.gml.gz" 
+            type: "application/zip"
+            length: 417749544
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Dubbelbestemming.gml.gz" 
+            type: "application/zip"
+            length: 657791304
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Enkelbestemming.gml.gz" 
+            type: "application/zip"
+            length: 2748636510
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Figuur.gml.gz" 
+            type: "application/zip"
+            length: 51780719
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Functieaanduiding.gml.gz" 
+            type: "application/zip"
+            length: 431867989
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Gebiedsaanduiding.gml.gz" 
+            type: "application/zip"
+            length: 401664898
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Lettertekenaanduiding.gml.gz" 
+            type: "application/zip"
+            length: 21177052
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Maatvoering.gml.gz" 
+            type: "application/zip"
+            length: 458054082
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Plangebied.gml.gz" 
+            type: "application/zip"
+            length: 340920393
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Plangebied_PCP.gml.gz" 
+            type: "application/zip"
+            length: 16831370
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/ProvinciaalComplex.gml.gz" 
+            type: "application/zip"
+            length: 4067085
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/ProvinciaalGebied.gml.gz" 
+            type: "application/zip"
+            length: 11701284
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/ProvinciaalPlangebied.gml.gz" 
+            type: "application/zip"
+            length: 32396
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiecomplex_G.gml.gz" 
+            type: "application/zip"
+            length: 411
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiecomplex_P.gml.gz" 
+            type: "application/zip"
+            length: 98950206
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiecomplex_R.gml.gz" 
+            type: "application/zip"
+            length: 410
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiegebied_G.gml.gz" 
+            type: "application/zip"
+            length: 77719068
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiegebied_P.gml.gz" 
+            type: "application/zip"
+            length: 1865927696
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiegebied_R.gml.gz" 
+            type: "application/zip"
+            length: 86524355
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieplangebied_G.gml.gz" 
+            type: "application/zip"
+            length: 14379713
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieplangebied_P.gml.gz" 
+            type: "application/zip"
+            length: 8501325
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieplangebied_R.gml.gz" 
+            type: "application/zip"
+            length: 2598253
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieverklaring_P.gml.gz" 
+            type: "application/zip"
+            length: 112136667register.nl/plu/extract/Structuurvisiegebied_G.gml.gz" 
+            type: "application/zip"
+            length: 77719068
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiegebied_P.gml.gz" 
+            type: "application/zip"
+            length: 1865927696
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiegebied_R.gml.gz" 
+            type: "application/zip"
+            length: 86524355
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieplangebied_G.gml.gz" 
+            type: "application/zip"
+            length: 14379713
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieplangebied_P.gml.gz" 
+            type: "application/zip"
+            length: 8501325
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieplangebied_R.gml.gz" 
+            type: "application/zip"
+            length: 2598253
+          - rel: "alternate"
+            href: "https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieverklaring_P.gml.gz" 
+            type: "application/zip"
+            length: 112136667
+        rights: "http://creativecommons.org/publicdomain/mark/1.0/deed.nl"
+        category:
+          - term: "http://www.opengis.net/def/crs/EPSG/0/28992"
+            label: "Amersfoort / RD New"
+        polygon: "50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1"

@@ -1,0 +1,388 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
+<id>https://geodata.nationaalgeoregister.nl/plu/atom/plu.xml</id>
+<title type="text" xml:lang="nl">INSPIRE Download Service van PLU - Ruimtelijke Plannen</title>
+<subtitle type="text" xml:lang="nl">Voorgedefinieerde dataset INSPIRE download service</subtitle>
+<link href="https://geodata.nationaalgeoregister.nl/plu/atom/plu.xml" rel="self" type="application/atom+xml" title="Dataset Feed" hreflang="nl"/>
+<link href="https://www.nationaalgeoregister.nl/geonetwork/srv/dut/xml.metadata.get?uuid=17716ed7-ce0d-4bfd-8868-a398e5578a36" rel="describedby" type="text/html"/>
+<link href="https://geodata.nationaalgeoregister.nl/atom/index.xml" rel="up" type="application/atom+xml" title="Top Atom Download Service Feed" hreflang="nl"/>
+<author>
+<name>PDOK beheer</name>
+<email>beheerPDOK@kadaster.nl</email>
+</author>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<entry>
+<id>Besluitgebied_A.gml.gz</id>
+<title type="text" xml:lang="nl">Besluitgebied_A.gml.gz</title>
+<content type="text">Downloadgrootte: 3.9 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitgebied_A.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="4105036"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitgebied_A.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Besluitgebied_P.gml.gz</id>
+<title type="text" xml:lang="nl">Besluitgebied_P.gml.gz</title>
+<content type="text">Downloadgrootte: 14.5 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitgebied_P.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="15170359"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitgebied_P.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Besluitgebied_X.gml.gz</id>
+<title type="text" xml:lang="nl">Besluitgebied_X.gml.gz</title>
+<content type="text">Downloadgrootte: 43.5 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitgebied_X.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="45631937"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitgebied_X.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Besluitsubvlak_A.gml.gz</id>
+<title type="text" xml:lang="nl">Besluitsubvlak_A.gml.gz</title>
+<content type="text">Downloadgrootte: 42.1 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitsubvlak_A.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="44143147"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitsubvlak_A.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Besluitsubvlak_P.gml.gz</id>
+<title type="text" xml:lang="nl">Besluitsubvlak_P.gml.gz</title>
+<content type="text">Downloadgrootte: 1.6 GB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitsubvlak_P.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="1686393388"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitsubvlak_P.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Besluitsubvlak_X.gml.gz</id>
+<title type="text" xml:lang="nl">Besluitsubvlak_X.gml.gz</title>
+<content type="text">Downloadgrootte: 29 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitsubvlak_X.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="30395411"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitsubvlak_X.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Besluitvlak_A.gml.gz</id>
+<title type="text" xml:lang="nl">Besluitvlak_A.gml.gz</title>
+<content type="text">Downloadgrootte: 5.6 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitvlak_A.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="5916439"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitvlak_A.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Besluitvlak_P.gml.gz</id>
+<title type="text" xml:lang="nl">Besluitvlak_P.gml.gz</title>
+<content type="text">Downloadgrootte: 1.2 GB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitvlak_P.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="1330786729"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitvlak_P.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Besluitvlak_X.gml.gz</id>
+<title type="text" xml:lang="nl">Besluitvlak_X.gml.gz</title>
+<content type="text">Downloadgrootte: 85.4 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitvlak_X.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="89543856"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitvlak_X.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Bestemmingsplangebied.gml.gz</id>
+<title type="text" xml:lang="nl">Bestemmingsplangebied.gml.gz</title>
+<content type="text">Downloadgrootte: 221.5 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Bestemmingsplangebied.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="232251727"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Bestemmingsplangebied.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Bouwaanduiding.gml.gz</id>
+<title type="text" xml:lang="nl">Bouwaanduiding.gml.gz</title>
+<content type="text">Downloadgrootte: 200.4 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Bouwaanduiding.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="210137217"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Bouwaanduiding.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Bouwvlak.gml.gz</id>
+<title type="text" xml:lang="nl">Bouwvlak.gml.gz</title>
+<content type="text">Downloadgrootte: 398.4 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Bouwvlak.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="417749544"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Bouwvlak.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Dubbelbestemming.gml.gz</id>
+<title type="text" xml:lang="nl">Dubbelbestemming.gml.gz</title>
+<content type="text">Downloadgrootte: 627.3 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Dubbelbestemming.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="657791304"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Dubbelbestemming.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Enkelbestemming.gml.gz</id>
+<title type="text" xml:lang="nl">Enkelbestemming.gml.gz</title>
+<content type="text">Downloadgrootte: 2.6 GB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Enkelbestemming.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="2748636510"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Enkelbestemming.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Figuur.gml.gz</id>
+<title type="text" xml:lang="nl">Figuur.gml.gz</title>
+<content type="text">Downloadgrootte: 49.4 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Figuur.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="51780719"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Figuur.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Functieaanduiding.gml.gz</id>
+<title type="text" xml:lang="nl">Functieaanduiding.gml.gz</title>
+<content type="text">Downloadgrootte: 411.9 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Functieaanduiding.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="431867989"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Functieaanduiding.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Gebiedsaanduiding.gml.gz</id>
+<title type="text" xml:lang="nl">Gebiedsaanduiding.gml.gz</title>
+<content type="text">Downloadgrootte: 383.1 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Gebiedsaanduiding.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="401664898"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Gebiedsaanduiding.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Lettertekenaanduiding.gml.gz</id>
+<title type="text" xml:lang="nl">Lettertekenaanduiding.gml.gz</title>
+<content type="text">Downloadgrootte: 20.2 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Lettertekenaanduiding.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="21177052"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Lettertekenaanduiding.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Maatvoering.gml.gz</id>
+<title type="text" xml:lang="nl">Maatvoering.gml.gz</title>
+<content type="text">Downloadgrootte: 436.8 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Maatvoering.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="458054082"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Maatvoering.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Plangebied.gml.gz</id>
+<title type="text" xml:lang="nl">Plangebied.gml.gz</title>
+<content type="text">Downloadgrootte: 325.1 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Plangebied.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="340920393"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Plangebied.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Plangebied_PCP.gml.gz</id>
+<title type="text" xml:lang="nl">Plangebied_PCP.gml.gz</title>
+<content type="text">Downloadgrootte: 16.1 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Plangebied_PCP.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="16831370"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Plangebied_PCP.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>ProvinciaalComplex.gml.gz</id>
+<title type="text" xml:lang="nl">ProvinciaalComplex.gml.gz</title>
+<content type="text">Downloadgrootte: 3.9 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/ProvinciaalComplex.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="4067085"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/ProvinciaalComplex.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>ProvinciaalGebied.gml.gz</id>
+<title type="text" xml:lang="nl">ProvinciaalGebied.gml.gz</title>
+<content type="text">Downloadgrootte: 11.2 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/ProvinciaalGebied.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="11701284"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/ProvinciaalGebied.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>ProvinciaalPlangebied.gml.gz</id>
+<title type="text" xml:lang="nl">ProvinciaalPlangebied.gml.gz</title>
+<content type="text">Downloadgrootte: 31.6 KB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/ProvinciaalPlangebied.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="32396"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/ProvinciaalPlangebied.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Structuurvisiecomplex_G.gml.gz</id>
+<title type="text" xml:lang="nl">Structuurvisiecomplex_G.gml.gz</title>
+<content type="text">Downloadgrootte: 411 B</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiecomplex_G.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="411"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiecomplex_G.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Structuurvisiecomplex_P.gml.gz</id>
+<title type="text" xml:lang="nl">Structuurvisiecomplex_P.gml.gz</title>
+<content type="text">Downloadgrootte: 94.4 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiecomplex_P.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="98950206"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiecomplex_P.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Structuurvisiecomplex_R.gml.gz</id>
+<title type="text" xml:lang="nl">Structuurvisiecomplex_R.gml.gz</title>
+<content type="text">Downloadgrootte: 410 B</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiecomplex_R.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="410"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiecomplex_R.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Structuurvisiegebied_G.gml.gz</id>
+<title type="text" xml:lang="nl">Structuurvisiegebied_G.gml.gz</title>
+<content type="text">Downloadgrootte: 74.1 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiegebied_G.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="77719068"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiegebied_G.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Structuurvisiegebied_P.gml.gz</id>
+<title type="text" xml:lang="nl">Structuurvisiegebied_P.gml.gz</title>
+<content type="text">Downloadgrootte: 1.7 GB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiegebied_P.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="1865927696"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiegebied_P.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Structuurvisiegebied_R.gml.gz</id>
+<title type="text" xml:lang="nl">Structuurvisiegebied_R.gml.gz</title>
+<content type="text">Downloadgrootte: 82.5 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiegebied_R.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="86524355"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisiegebied_R.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Structuurvisieplangebied_G.gml.gz</id>
+<title type="text" xml:lang="nl">Structuurvisieplangebied_G.gml.gz</title>
+<content type="text">Downloadgrootte: 13.7 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieplangebied_G.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="14379713"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieplangebied_G.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Structuurvisieplangebied_P.gml.gz</id>
+<title type="text" xml:lang="nl">Structuurvisieplangebied_P.gml.gz</title>
+<content type="text">Downloadgrootte: 8.1 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieplangebied_P.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="8501325"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieplangebied_P.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Structuurvisieplangebied_R.gml.gz</id>
+<title type="text" xml:lang="nl">Structuurvisieplangebied_R.gml.gz</title>
+<content type="text">Downloadgrootte: 2.5 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieplangebied_R.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="2598253"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieplangebied_R.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+<entry>
+<id>Structuurvisieverklaring_P.gml.gz</id>
+<title type="text" xml:lang="nl">Structuurvisieverklaring_P.gml.gz</title>
+<content type="text">Downloadgrootte: 106.9 MB</content>
+<updated>2021-06-30T22:00:00.000Z</updated>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieverklaring_P.gml.gz" rel="alternate" type="application/x-compressed" hreflang="nl" length="112136667"/>
+<link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieverklaring_P.gml.gz" hreflang="nl"/>
+<rights type="text">http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
+<category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New"/>
+<georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
+</entry>
+</feed>
