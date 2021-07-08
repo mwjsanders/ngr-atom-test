@@ -246,7 +246,7 @@
           <srv:connectPoint>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://geodata.nationaalgeoregister.nl/plu/atom/plu.xml</gmd:URL>
+                <gmd:URL>https://mwjsanders.github.io/ngr-atom-test/kadaster/plu/atom/v1_0/plu.xml</gmd:URL>
               </gmd:linkage>
             </gmd:CI_OnlineResource>
           </srv:connectPoint>
@@ -262,7 +262,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://geodata.nationaalgeoregister.nl/plu/atom/plu.xml</gmd:URL>
+                <gmd:URL>https://mwjsanders.github.io/ngr-atom-test/kadaster/plu/atom/v1_0/plu.xml</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gmx:Anchor xlink:href="https://tools.ietf.org/html/rfc4287">INSPIRE Atom</gmx:Anchor>
