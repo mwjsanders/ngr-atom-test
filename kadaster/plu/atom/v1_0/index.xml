@@ -5,9 +5,9 @@
  <title>INSPIRE Download Service van Ruimelijke plannen INSPIRE</title>
  <subtitle>INSPIRE Download Service van Ruimelijke plannen INSPIRE</subtitle>
  <link href="https://mwjsanders.github.io/ngr-atom-test/kadaster/plu/atom/v1_0/index.xml" rel="self" type="application/atom+xml" hreflang="nl" title="INSPIRE Download Service van Ruimelijke plannen INSPIRE"></link>
- <link href="https://mwjsanders.github.com/ngr-atom-test/metadata/dc9fbc85-1263-4a1b-b001-7be701a6039e.xml" rel="describedby" type="application/xml" hreflang="nl"></link>
+ <link href="https://mwjsanders.github.io/ngr-atom-test/metadata/dc9fbc85-1263-4a1b-b001-7be701a6039e.xml" rel="describedby" type="application/xml" hreflang="nl"></link>
  <link href="https://www.nationaalgeoregister.nl/geonetwork/opensearch/dut/dc9fbc85-1263-4a1b-b001-7be701a6039e/OpenSearchDescription.xml" rel="search" type="application/opensearchdescription+xml" hreflang="nl" title="Open Search document voor INSPIRE Download service PDOK"></link>
- <link href="https://mwjsanders.github.com/ngr-atom-test/metadata/dc9fbc85-1263-4a1b-b001-7be701a6039e.xml" rel="related" type="text/html" hreflang="nl" title="NGR pagina voor deze download service"></link>
+ <link href="https://mwjsanders.github.io/ngr-atom-test/metadata/dc9fbc85-1263-4a1b-b001-7be701a6039e.xml" rel="related" type="text/html" hreflang="nl" title="NGR pagina voor deze download service"></link>
  <rights>https://creativecommons.org/publicdomain/zero/1.0/deed.nl</rights>
  <updated>2021-07-05T12:00:00Z</updated>
  <author>
@@ -18,7 +18,7 @@
   <id>https://mwjsanders.github.io/ngr-atom-test/kadaster/plu/atom/v1_0/plu.xml</id>
   <title>Ruimtelijke plannen Wro: Ruimtelijkeplannen.nl</title>
   <summary>INSPIRE Download Service van Ruimtelijke plannen INSPIRE</summary>
-  <link href="https://mwjsanders.github.com/ngr-atom-test/metadata/17716ed7-ce0d-4bfd-8868-a398e5578a36.xml" rel="describedby" type="application/xml" hreflang="nl"></link>
+  <link href="https://mwjsanders.github.io/ngr-atom-test/metadata/17716ed7-ce0d-4bfd-8868-a398e5578a36.xml" rel="describedby" type="application/xml" hreflang="nl"></link>
   <link href="https://mwjsanders.github.io/ngr-atom-test/kadaster/plu/atom/v1_0/plu.xml" rel="alternate" type="application/atom+xml" hreflang="nl" title="INSPIRE Download Service van Ruimtelijke plannen INSPIRE"></link>
   <updated>2021-07-05T12:00:00Z</updated>
   <georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>

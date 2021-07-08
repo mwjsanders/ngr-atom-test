@@ -6,8 +6,8 @@
  <subtitle>Voorgedefinieerde dataset INSPIRE download service</subtitle>
  <link href="https://mwjsanders.github.io/ngr-atom-test/kadaster/plu/atom/v1_0/plu.xml" rel="self" hreflang="nl"></link>
  <link href="https://mwjsanders.github.io/ngr-atom-test/kadaster/plu/atom/v1_0/index.xml" rel="up" type="application/atom+xml" hreflang="nl" title="Top Atom Download Service Feed"></link>
- <link href="https://mwjsanders.github.com/ngr-atom-test/metadata/17716ed7-ce0d-4bfd-8868-a398e5578a36.xml" rel="describedby" type="text/html" hreflang="nl"></link>
- <link href="https://mwjsanders.github.com/ngr-atom-test/metadata/17716ed7-ce0d-4bfd-8868-a398e5578a36.xml" rel="related" type="text/html" hreflang="nl" title="NGR pagina voor deze dataset"></link>
+ <link href="https://mwjsanders.github.io/ngr-atom-test/metadata/17716ed7-ce0d-4bfd-8868-a398e5578a36.xml" rel="describedby" type="text/html" hreflang="nl"></link>
+ <link href="https://mwjsanders.github.io/ngr-atom-test/metadata/17716ed7-ce0d-4bfd-8868-a398e5578a36.xml" rel="related" type="text/html" hreflang="nl" title="NGR pagina voor deze dataset"></link>
  <rights>http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
  <updated>2021-07-05T12:00:00Z</updated>
  <author>
