@@ -19,7 +19,7 @@
   <title>INSPIRE Download Service van PLU - Ruimtelijke Plannen</title>
   <content type="text" xml:lang="nl">Bestand is opgesplitst per featuretype, elk featuretype heeft een eigen download bestand</content>
   <link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitgebied_A.gml.gz" rel="alternate" type="application/zip" hreflang="nl" length="4105036"></link>
-  <link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitgebied_P.gml.gz" rel="alternate" type="application/zip" hreflang="nl" length="15170359"></link>
+  <!-- <link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitgebied_P.gml.gz" rel="alternate" type="application/zip" hreflang="nl" length="15170359"></link>
   <link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitgebied_X.gml.gz" rel="alternate" type="application/zip" hreflang="nl" length="45631937"></link>
   <link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitsubvlak_A.gml.gz" rel="alternate" type="application/zip" hreflang="nl" length="44143147"></link>
   <link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitsubvlak_P.gml.gz" rel="alternate" type="application/zip" hreflang="nl" length="1686393388"></link>
@@ -57,7 +57,7 @@
   <link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieplangebied_G.gml.gz" rel="alternate" type="application/zip" hreflang="nl" length="14379713"></link>
   <link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieplangebied_P.gml.gz" rel="alternate" type="application/zip" hreflang="nl" length="8501325"></link>
   <link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieplangebied_R.gml.gz" rel="alternate" type="application/zip" hreflang="nl" length="2598253"></link>
-  <link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieverklaring_P.gml.gz" rel="alternate" type="application/zip" hreflang="nl" length="112136667"></link>
+  <link href="https://geodata.nationaalgeoregister.nl/plu/extract/Structuurvisieverklaring_P.gml.gz" rel="alternate" type="application/zip" hreflang="nl" length="112136667"></link> -->
   <rights>http://creativecommons.org/publicdomain/mark/1.0/deed.nl</rights>
   <updated>2021-07-05T12:00:00Z</updated>
   <georss:polygon>50.6 3.1 50.6 7.3 53.7 7.3 53.7 3.1 50.6 3.1</georss:polygon>
