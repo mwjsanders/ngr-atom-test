@@ -18,7 +18,7 @@
   <id>https://mwjsanders.github.io/ngr-atom-test/kadaster/plu/atom/v1_0/plu.xml</id>
   <title>INSPIRE Download Service van PLU - Ruimtelijke Plannen</title>
   <content type="text" xml:lang="nl">Bestand is opgesplitst per featuretype, elk featuretype heeft een eigen download bestand</content>
-  <link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitgebied_A.gml.gz" rel="alternate" type="application/x-gmz" hreflang="nl" length="4105036"></link>
+  <link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitgebied_A.gml.gz" rel="alternate" type="application/zip" hreflang="nl" length="4105036"></link>
   <!-- <link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitgebied_P.gml.gz" rel="alternate" type="application/zip" hreflang="nl" length="15170359"></link>
   <link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitgebied_X.gml.gz" rel="alternate" type="application/zip" hreflang="nl" length="45631937"></link>
   <link href="https://geodata.nationaalgeoregister.nl/plu/extract/Besluitsubvlak_A.gml.gz" rel="alternate" type="application/zip" hreflang="nl" length="44143147"></link>
